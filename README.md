@@ -28,22 +28,21 @@ Seeking a challenging and dynamic role in the technology sector, where my strong
 - Networking and Cybersecurity
 
 ### Skills
-| Software Skills       | Programming and Scripting |
-|-----------------------|---------------------------|
-| Eclipse               | Java                      |
-| Visual Studio         | JavaScript                |
-| Unity                 | C#                        |
-| MySQL                 | HTML                      |
-| ArcGIS                | CSS                       |
-| RStudio               | SQL                       |
-| Tableau               | R                         |
-| PowerBI               | Python                    |
-| Figma                 |                           |
-| Azure                 |                           |
-
-
 | Category                 | Skills                              |
 |--------------------------|-------------------------------------|
 | Software Skills          | Eclipse, Visual Studio, Unity, MySQL, ArcGIS, RStudio, Tableau, PowerBI, Figma, Azure |
 | Programming and Scripting| Java, JavaScript, C#, HTML, CSS, SQL, R, Python |
+
+### Achievements
+- Best In Show – T-Mobile CodeDay Competition 
+- 3rd place – State for Data Science in TSA
+- 6th Place – State for Cybersecurity TSA
+- Participated in DubsTech 4th Annual Datathon 
+- Participated in SWE Hackathon – Figma portfolio 
+- Participated in WINFO Hackathon - Figma Design portfolio
+- Participating in Microsoft Imagine Cup
+
+
+
+
 
