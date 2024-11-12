@@ -40,7 +40,7 @@ Seeking a challenging and dynamic role in the technology sector, where my strong
 - Participated in DubsTech 4th Annual Datathon 
 - Participated in SWE Hackathon – Figma portfolio 
 - Participated in WINFO Hackathon - Figma Design portfolio
-- Participating in Microsoft Imagine Cup
+- Participated in Microsoft Imagine Cup
 
 ### Work Experience
 | Position                                   | Type                       | Organization                      | Dates                     | Responsibilities                                                                                                                                                                                                                                                       |
