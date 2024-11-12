@@ -40,3 +40,10 @@ Seeking a challenging and dynamic role in the technology sector, where my strong
 | PowerBI               | Python                    |
 | Figma                 |                           |
 | Azure                 |                           |
+
+
+| Category                 | Skills                              |
+|--------------------------|-------------------------------------|
+| Software Skills          | Eclipse, Visual Studio, Unity, MySQL, ArcGIS, RStudio, Tableau, PowerBI, Figma, Azure |
+| Programming and Scripting| Java, JavaScript, C#, HTML, CSS, SQL, R, Python |
+
