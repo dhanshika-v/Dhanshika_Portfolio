@@ -64,7 +64,7 @@ Adjusting MyPlan’s current features is another solution, as it allows for narr
 
 
 
-## Selected Solution
+## ⭐️ Selected Solution ⭐️
 After listing all potential solutions, we decided that the best course of action is to focus our efforts solely on updating the design of MyPlan to improve its usability and accessibility. This decision was made based on the fact that MyPlan is the central platform that connects current students with the University of Washington. Academic planning and tracking, as well as class scheduling, are all done through this platform. Hence-why, students are comfortable and familiar with this platform and by eliminating the unnecessaries and improving it will enhance their experience further.
 
 Compared to other potential solutions, stakeholders, especially students, are most comfortable and familiar with MyPlan as it is an existing platform. By leveraging it, we can ensure an immediate impact. Removing unnecessary features and improving the design can ultimately minimize user resistance.
