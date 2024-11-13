@@ -6,7 +6,6 @@
 MyPlan Revamped
 INFO 200 Project Final Prototype 
 
-Project Brief
 
 ### Team Members
 Dhanshika Vijayaraj: Hi I am Dhanshika Vijayaraj. I am currently a pre-science major and planning to major in Data Visualization. I have experience in Java, Python, and other programming languages so I have some experience with coding. 
