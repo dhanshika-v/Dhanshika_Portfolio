@@ -1,3 +1,4 @@
+<img width="149" alt="Screenshot 2024-10-09 at 8 59 33 PM" src="https://github.com/user-attachments/assets/77c1c65f-8191-42ea-b724-bbd3a2deac9a">
 ### SeattleFresh 🐰🥕
 ---
 shopping made sustainable. (our motto haha)
