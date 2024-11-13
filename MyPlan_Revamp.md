@@ -90,61 +90,48 @@ It stands out as the best solution as MyPlan is the aforementioned main platform
 
 
 **Low-Fidelity Wireframing Stage**
-After finalizing the low-fidelity wireframes*, we asked the users for their thoughts on the redesign. Here are some of their quotes:
-*“I think the calendar is actually necessary, just because we’ve been using external calendars platform, why not have it directly linked to our MyPlan!”
-“I’ve been trying to figure out how who is my academic advisor for the longest time, because I know we have one as they talked about it in the orientation, but I just forgot and only know how to look for them in my third quarter, it would definitely be useful for incoming freshman”
-And this is the feedback we took into account and revised it to our (final) high-fidelity wireframes:
-“The features of MyPlan still confuse me, and I think you should find a way to allow users to know what each features do”*
-We have created a small question mark icon that allows users to hover over it in order to see detailed information about the corresponding feature. As users become more familiar with the layout and presentation of features and buttons in the current, original MyPlan, we believe it would be helpful to simply add question mark icons to some of the important features, rather than redesigning the entire layout.
 
+After finalizing the low-fidelity wireframes*, we asked the users for their thoughts on the redesign. Here are some of their quotes:
+
+- *“I think the calendar is actually necessary, just because we’ve been using external calendars platform, why not have it directly linked to our MyPlan!”
+- “I’ve been trying to figure out how who is my academic advisor for the longest time, because I know we have one as they talked about it in the orientation, but I just forgot and only know how to look for them in my third quarter, it would definitely be useful for incoming freshman”*
+
+And this is the feedback we took into account and revised it to our (final) high-fidelity wireframes:
+
+*- “The features of MyPlan still confuse me, and I think you should find a way to allow users to know what each features do”*
+
+We have created a small question mark icon that allows users to hover over it in order to see detailed information about the corresponding feature. As users become more familiar with the layout and presentation of features and buttons in the current, original MyPlan, we believe it would be helpful to simply add question mark icons to some of the important features, rather than redesigning the entire layout.
 
 *To see our Low-Fidelity Wireframes, see the Appendix.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Moodboard
+<img width="652" alt="Screenshot 2024-11-12 at 6 24 54 PM" src="https://github.com/user-attachments/assets/b568bcc9-441d-433e-90ae-d677528c8925">
 
 
+** Design Language / Style Guide **
 
-
-
-
-
-
-
-Design Language / Style Guide
-Font 
+### Font 
 MyPlan is an University of Washington application, and we are revamping it to be easier for the user to interact with. Since we are using a pre-existing application we need to maintain design choices implemented in the application, and rather enhance the productivity of the product. Therefore, we maintained the font “Lato” throughout the new MyPlan design. 
+<img width="141" alt="dd" src="https://github.com/user-attachments/assets/236abccc-d2d4-44d6-88e2-1ef8e7208603">
+
 
 Colors
 Since we are creating a revamped version of MyPlan instead of building a proposed website or application from scratch, most the color palette and themes used for our final design is mostly based on UW’s color theme - which is purple (#49317B in hex code). Yet, for most of the specific features - such as when users hover above our drop down menu design, or when they hover over a button - which we implemented ourselves, we went for a lighter shade of that color by increasing the white intensity. Furthermore, for our proposed personalization page, we searched for matching color palettes and combinations with the initial purple theme, and found that a light shade of brown matches the purple color, combining vibrant and soft colors. By doing so, the theme of our website will not only be less stagnant and monotone with purple colors, but also looks pleasing and comfortable to the eye. 
-High-Fidelity Wireframes
-Onboarding 
-Intuitive and descriptive homepage layout:
+
+## High-Fidelity Wireframes
+
+# Onboarding 
+**Intuitive and descriptive homepage layout:**
+<img width="468" alt="hhkh" src="https://github.com/user-attachments/assets/a2a2fd65-b3e9-423b-be81-a386045679ba">
+<img width="303" alt="hhiihih" src="https://github.com/user-attachments/assets/1d23f3c9-7d6f-4b80-80a7-8348bb6bd5ab">
+<img width="410" alt="hjk" src="https://github.com/user-attachments/assets/e521792a-4486-4a00-a125-7f33da64b88e">
 
 
-Drop down menus that highlight user current selection to allow users to conveniently access features that are related to their academic advisor (eg. contact them)
-Question mark icons in home page that when users hover over each one, shows a description of what the feature does; or where the user will be directed to when clicking the hyperlink
-Add and remove from list icons that change colors every time users interact with them, allowing ease of altering personalized reminders. 
-
-
+- Drop down menus that highlight user current selection to allow users to conveniently access features that are related to their academic advisor (eg. contact them)
+- Question mark icons in home page that when users hover over each one, shows a description of what the feature does; or where the user will be directed to when clicking the hyperlink
+- Add and remove from list icons that change colors every time users interact with them, allowing ease of altering personalized reminders. 
 
 
 
