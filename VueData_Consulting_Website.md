@@ -1,6 +1,8 @@
 # VueData - Consulting Website 💻
 ---
 
+<img width="520" alt="Screenshot 2024-11-12 at 5 39 39 PM" src="https://github.com/user-attachments/assets/781e7ff9-26f9-431c-8216-911c627b0058">
+
 At VueData, I interned as a Website Development Intern at VueData, I was involved in utilizing the Django Framework along with HTML, CSS, JavaScript, and Python to develop a sophisticated consulting website tailored for internal HR use. In addition to coding and front-end design, I took charge of designing and implementing a robust database using MySQL to support seamless backend development. This comprehensive approach not only expanded my proficiency in web development technologies but also provided invaluable hands-on experience in crafting functional and user-friendly solutions to meet organizational needs.
 
 ### Figma Wesbite Design:
