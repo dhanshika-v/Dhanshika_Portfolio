@@ -24,11 +24,15 @@ Our focus target audience are current UW students and the main general platform 
 ### Solutions Considered
 ## Solution 1 - MyPlan Instructions Website
 
+<img width="468" alt="Picture1" src="https://github.com/user-attachments/assets/abe273d9-f567-4000-9d4e-332ccb6b102c">
+
 
 One solution to improve MyPlan is to incorporate a website or a page on MyPlan itself that includes instructions and tutorials for the many features on MyPlan. This way, whenever a user is confused or needs assistance, they can easily find and go to this page to receive clarifications instead of searching for answers outside of MyPlan. The advantages of having this solution is that it can not only instruct students when they first start using MyPlan, and users can access it at any time when they have questions. However, a disadvantage of this solution is that the instructions website will not adjust MyPlan to be more usable, but only give clearer direction no matter how confusing the platform may be.
 
 
 ## Solution 2 - MyPlan Interactive Orientation
+
+<img width="468" alt="hhhh" src="https://github.com/user-attachments/assets/771ca4cc-e0e1-44ad-bcd7-535de21d3484">
 
 
 Having an orientation, either in person or virtually on a meeting platform, is one way to provide direction for students using MyPlan and therefore make it easier for them to use. A strength of this solution is that users can interact with an orientation leader, who would be knowledgeable in MyPlan’s features, allowing them to ask questions they might not find answers to themselves. After attending an orientation, users can take the information they learned and apply it to their future use. On the other hand, a limitation is that this is a one-time event held at the beginning of the school year or quarter. This makes it difficult for students who transfer to the University of Washington in the middle of a term, anyone who misses the orientation, or anyone who wants continuous access to an interactive introduction to the platform.
@@ -36,11 +40,15 @@ Having an orientation, either in person or virtually on a meeting platform, is o
 
 ## Solution 3 - MyPlan with Google Calendar
 
+<img width="468" alt="h" src="https://github.com/user-attachments/assets/67f80003-79fe-47a5-ba1c-33d0f2b666bf">
+
 
 Adding a feature that allows users to combine their personal Google Calendar with MyPlan’s schedule builder is a solution that gives users much more ease in planning their classes around other events, such as work, clubs, and more. This allows students to easily see the overlaps between the classes they can have in mind and their personal schedule, letting them plan for a realistic and successful schedule for each quarter. A downside of this solution is that it complicates MyPlan, which can distract users from the complex schedule builder as it is now, instead of providing help. This is especially true for users who do not also use Google Calendar, as this solution does not apply to them at all.
 
 
 ## Solution 4 - Updating MyPlan Itself
+
+<img width="468" alt="ghg" src="https://github.com/user-attachments/assets/5abb5b53-4c67-4cd1-a6d9-0db9f63b3cec">
 
 
 Adjusting MyPlan’s current features is another solution, as it allows for narrowing down on various, specific problem spots to edit while keeping the useful qualities the same. Updating MyPlan will benefit users because it can add clarification to the features that already exist and create convenient shortcuts that give access to features that otherwise would have to be thoroughly searched for or are not available at all. Adding personalization features can help users stay organized through their own habits, rather than forcing them to create new ones. However, a disadvantage to changing parts of MyPlan as a whole is that current users may already be used to using MyPlan as it is and would therefore have to relearn how to use the platform with its new features.
