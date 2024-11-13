@@ -124,7 +124,7 @@ Since we are creating a revamped version of MyPlan instead of building a propose
 
 ## High-Fidelity Wireframes
 
-# Onboarding 
+### Onboarding 
 **Intuitive and descriptive homepage layout:**
 
 <img width="468" alt="hhkh" src="https://github.com/user-attachments/assets/a2a2fd65-b3e9-423b-be81-a386045679ba">
@@ -139,14 +139,17 @@ Since we are creating a revamped version of MyPlan instead of building a propose
 
 
 
-Usage Scenario 1: Finding Support
+### Usage Scenario 1: Finding Support
+
+<img width="468" alt="ehhwe" src="https://github.com/user-attachments/assets/d2129a2e-1d0e-4a99-8475-94810c5fb67e">
 
 
-Usage Scenario 2: Personalizing MyPlan
+### Usage Scenario 2: Personalizing MyPlan
+
+![uikjm](https://github.com/user-attachments/assets/9a3d1dd6-84b2-4a0c-a6e8-c3333c2494d4)
 
 
-
-Interactive Prototype
+## Interactive Prototype
 
 We used Figma to make our interactive prototype for MyPlan Revamped, which can be accessed through the following link:
 https://www.figma.com/proto/9XkqHZL7sensi0YXg40xIn/Group6-MyPlan-Revamped?type=design&node-id=1-6&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A6
@@ -154,91 +157,86 @@ https://www.figma.com/proto/9XkqHZL7sensi0YXg40xIn/Group6-MyPlan-Revamped?type=d
 This link is the process (behind the scenes):
 https://www.figma.com/file/9XkqHZL7sensi0YXg40xIn/Group6-MyPlan-Revamped?type=design&node-id=0-1&t=eL8hoE3lT2iHEK3w-0 
 
-Important notes (for presentation purposes):
-There were several notes in the Figma file itself that occasionally appear beside each frame to indicate the way users are expected to run / present our interactive project. 
-ie) When presenting in visual schedule frame
-Click add personalized events first, then
-Add selected classes 
-Also, buttons on the ‘personalization’ page on the left side of the frame are all supposed to link to external websites (such as clicking registration dates will link to this site: https://registrar.washington.edu/registration/periods/ and vice versa). We excluded it for simplicity purposes and so that users remain in Figma, instead of being redirected to an external site. However, one exception of this is the visual schedule button which links to another series of frames. 
-References
+**Important notes** (for presentation purposes):
+- There were several notes in the Figma file itself that occasionally appear beside each frame to indicate the way users are expected to run / present our interactive project. 
+ie)
+  - When presenting in visual schedule frame
+      - Click add personalized events first, then
+      - Add selected classes 
+- Also, buttons on the ‘personalization’ page on the left side of the frame are all supposed to link to external websites (such as clicking registration dates will link to this site: https://registrar.washington.edu/registration/periods/ and vice versa). We excluded it for simplicity purposes and so that users remain in Figma, instead of being redirected to an external site. However, one exception of this is the visual schedule button which links to another series of frames. 
+
+
+## References
 The following are references used for this final project:
-Icons 8 - https://icons8.com/
-Color generator by Canva - https://www.canva.com/colors/color-palette-generator/
-Figma YouTube tutorials:
-https://youtu.be/MTKttcfEkKk
-https://youtu.be/AHBEpMD2dZ0 
+1. Icons 8 - https://icons8.com/
+2. Color generator by Canva - https://www.canva.com/colors/color-palette-generator/
+2. Figma YouTube tutorials:
+    https://youtu.be/MTKttcfEkKk
+    https://youtu.be/AHBEpMD2dZ0 
 
 
+## Appendix
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Appendix
-
-User Research Notes 
+**User Research Notes**
 Short Interview
-Student 1 – Chelsea Hadiwibowo, Incoming Freshman (Class of 2027)
+
+**Student 1 – Chelsea Hadiwibowo, Incoming Freshman (Class of 2027)**
 Q: What do you think about this new re-design?
-A: “I think the calendar is actually necessary, just because we’ve been using external   calendars platform, why not have it directly linked to our MyPlan!”
+A: *“I think the calendar is actually necessary, just because we’ve been using external   calendars platform, why not have it directly linked to our MyPlan!”*
 Q: Is there anything to improve?
-A: “I am still learning to use MyPlan so everything seems new to me”
+A: *“I am still learning to use MyPlan so everything seems new to me”*
 
 
-Student 2  – Chiara Isabelle, Sophomore (Class of 2025)
+**Student 2  – Chiara Isabelle, Sophomore (Class of 2025)**
 Q: What do you think about this new re-design?
-A: “Oh! The academic advisor button would definitely be useful”
+A: *“Oh! The academic advisor button would definitely be useful”*
 Q: Do you mind elaborating what that might mean?
-A: “I’ve been trying to figure out how who my academic advisor is, for the longest time, because I know we have one as they talked it during the orientation, but I just forgot and only know how to look for them in my third quarter of freshman year, it would definitely be useful for incoming freshman”
-Q: Is there anything to improve>
-A: “Not that I can think of”
+A: *“I’ve been trying to figure out how who my academic advisor is, for the longest time, because I know we have one as they talked it during the orientation, but I just forgot and only know how to look for them in my third quarter of freshman year, it would definitely be useful for incoming freshman”*
+Q: Is there anything to improve?
+A: *“Not that I can think of”*
 
 
-
-
-Student 3 – Darren Adrian, Freshman (Class of 2026)
+**Student 3 – Darren Adrian, Freshman (Class of 2026)**
 Q: What do you think about this new re-design?
 A: “I think it’s great that now it’s more personalized, the calendar feature is a good addition”
 Q: Is there anything to improve?
 A: The features of MyPlan still confuse me, and I think you should find a way to allow users to know what each features do”
 
 
-Low Fidelity Wireframes:What we are going to add 
-Personalization page draft drawing 
+## Low Fidelity Wireframes:
+<img width="468" alt="jhuihi" src="https://github.com/user-attachments/assets/0e8f61d6-1f1b-48e9-a59e-1bd5d2c24200">
+
+What we are going to add:
+<img width="468" alt="hihieie" src="https://github.com/user-attachments/assets/f85206d2-3755-468d-abdb-2ba083850d07">
+
+
+Personalization page draft drawing:
+<img width="444" alt="hkjhjk" src="https://github.com/user-attachments/assets/9eb739b1-1588-4c0c-8df5-89b12e96a47a">
 
 Personalization Visual Calendar page draft drawing 
 
-Final Low-Fidelity Wireframes
-Home Page Screen / Home Page
+## Final Low-Fidelity Wireframes
+
+### Home Page Screen / Home Page
+<img width="468" alt="yui" src="https://github.com/user-attachments/assets/72353872-e5de-405e-8ad2-f16b339db033">
+
 
 Here is our final proposed homepage layout. We did not change much in terms of layout, however, we added several functions that would make the website easier to navigate and look at, and also more convenient for user experience. We added several features to the already existing layout of MyPlan that we believe, and also based on our research, would be beneficial for students. The features we implemented include an asterisk signifier, a question mark icon/symbol beside specific hyperlinks, and a contact academic advisor instant button. 
 
-Academic Calendar Page
+### Academic Calendar Page
+
+<img width="468" alt="hiihii" src="https://github.com/user-attachments/assets/31c57d31-af51-49e2-afbb-d17ff86894a4">
 
 Here is the page that is directed to when the user clicks on the hyperlink “Personalized Calendar”. This is essentially a way for users to integrate more personality in their MyPlan as we have noticed that according to our research on UX, users tend to use third party applications such as google drive or google calendar to mark specific events and remind them of to-do activities. Here, we implemented a way for users to integrate more of the features of third party applications such as to-do lists and integrate them with MyPlan. For example, users can note a to-do in here indicating which classes they have to search for. Hence, the to-do list here is more connected to MyPlan and its features (such as registering for a specific class) instead of a normal, generalized to-do list. 
 
 The ‘filter by’ list shows a list of the upcoming events that is indicated in this website: (https://www.washington.edu/students/reg/begendcal.html) but filtered into categories for ease of access and convenience. 
 
-Academic Calendar Page - Weekly
+### Academic Calendar Page - Weekly
 
-
+<img width="468" alt="fghjkjhgf" src="https://github.com/user-attachments/assets/4c5569c0-3922-4cef-914d-7586cfb27e54">
 
 Weekly planners are useful tools for students because they promote accountability, flexibility, organization, time management, visualization, and goal-setting. You may increase your productivity, lower your stress level, and keep on top of your academic obligations by using a planner to schedule your classes. Having your personal commitments displayed on the weekly planner will make it easier for choosing a specific class. Using the button on the top right called: “Add Personal Event” you can populate the weekly calendar to have events that you may have other than classes to attend. For many students, since they are unaware and sometimes forget their pre existing commitments, this tool will be helpful for students to decide what classes and specific course load they need to be successful.
 
-
+<img width="468" alt="ujmn" src="https://github.com/user-attachments/assets/404dbcab-6580-45e7-9549-be08b43c875a">
 
 This is the same weekly calendar after populating the classes that are selected. To do this just through one click which is located on the top right corner called: “Add Selected Class”. This way the user can see their classes with their other commitments and decide the best schedule and also do not double book. Since this is a weekly layout they will get a better understanding how their weeks will be and plan other activities best.
