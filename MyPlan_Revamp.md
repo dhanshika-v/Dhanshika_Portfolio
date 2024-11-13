@@ -1,6 +1,5 @@
 # MyPlan Revamp 📖
 ---
-<span style="background-color: yellow;">This text is highlighted in yellow.</span>
 
 [MyPlan Revamped Final.pdf](https://github.com/user-attachments/files/17725121/MyPlan.Revamped.Final.pdf)
 
@@ -76,21 +75,21 @@ It stands out as the best solution as MyPlan is the aforementioned main platform
 ### Product Features
 
 **Primary Features**
-==**Feature 1:**== Personalized Calendar that allows users to tailor the provided calendar according to their liking (hyperlink). Just like the academic calendar already provided in the original MyPlan, there is a list that contains the academic events and holidays. Another feature added which would be useful is the ‘Reminder’ section which allows users to be reminded of the upcoming events, as well the ‘Add to list’ button which would allow users to add their own to-do list.
+**Feature 1:** Personalized Calendar that allows users to tailor the provided calendar according to their liking (hyperlink). Just like the academic calendar already provided in the original MyPlan, there is a list that contains the academic events and holidays. Another feature added which would be useful is the ‘Reminder’ section which allows users to be reminded of the upcoming events, as well the ‘Add to list’ button which would allow users to add their own to-do list.
 
-==**Feature 2:**== Asterisk symbol indicating a footnote (additional information) about a specific feature. In this case, the asterisk symbol is placed next to selected features in MyPlan’s homepage signifying that people frequently visit or use this specific feature. An example is shown in our design prototype as the asterisk beside build a schedule shows how it is frequently visited. By using this, we have made some sort of classification for MyPlan’s features that grabs their attention towards specific features that are mostly used.
+**Feature 2:** Asterisk symbol indicating a footnote (additional information) about a specific feature. In this case, the asterisk symbol is placed next to selected features in MyPlan’s homepage signifying that people frequently visit or use this specific feature. An example is shown in our design prototype as the asterisk beside build a schedule shows how it is frequently visited. By using this, we have made some sort of classification for MyPlan’s features that grabs their attention towards specific features that are mostly used.
 
 
 **Secondary Features**
-==**Feature Name:**== Personalized to-do list feature. We proposed a feature where users can have a todo-list that is connected to MyPlan and its features, but in a more personalized way. For example, users can add a to-do list to indicate when they should register for a course. This way, users can have a more to-do list which is more integrated and connected to MyPlan and its features. 
+**Feature Name:** Personalized to-do list feature. We proposed a feature where users can have a todo-list that is connected to MyPlan and its features, but in a more personalized way. For example, users can add a to-do list to indicate when they should register for a course. This way, users can have a more to-do list which is more integrated and connected to MyPlan and its features. 
 
-==**Feature Name:**== A specific button for contacting students’ academic advisor. We have implemented this since we thought that users, students specifically, have a convenient way to contact their advisor. This omits the need to navigate to MyUW to contact their advisor.
+**Feature Name:** A specific button for contacting students’ academic advisor. We have implemented this since we thought that users, students specifically, have a convenient way to contact their advisor. This omits the need to navigate to MyUW to contact their advisor.
 
-==**Feature Name:**== A question mark icon beside features (in the form of hyperlinks) that pops up a box that contains more information about the specific feature. This question mark icon feature is specifically implemented beside hyperlinks features which makes use of a lot of terminologies, such as schedule builder, or audit degree (DARS). This allows users to get a glimpse of where the hyperlink will take them, along with what the feature actually does.
+**Feature Name:** A question mark icon beside features (in the form of hyperlinks) that pops up a box that contains more information about the specific feature. This question mark icon feature is specifically implemented beside hyperlinks features which makes use of a lot of terminologies, such as schedule builder, or audit degree (DARS). This allows users to get a glimpse of where the hyperlink will take them, along with what the feature actually does.
 
 
 
-==**Low-Fidelity Wireframing Stage**==
+**Low-Fidelity Wireframing Stage**
 After finalizing the low-fidelity wireframes*, we asked the users for their thoughts on the redesign. Here are some of their quotes:
 *“I think the calendar is actually necessary, just because we’ve been using external calendars platform, why not have it directly linked to our MyPlan!”
 “I’ve been trying to figure out how who is my academic advisor for the longest time, because I know we have one as they talked about it in the orientation, but I just forgot and only know how to look for them in my third quarter, it would definitely be useful for incoming freshman”
