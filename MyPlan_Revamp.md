@@ -119,7 +119,7 @@ MyPlan is an University of Washington application, and we are revamping it to be
 <img width="141" alt="dd" src="https://github.com/user-attachments/assets/236abccc-d2d4-44d6-88e2-1ef8e7208603">
 
 
-Colors
+### Colors
 Since we are creating a revamped version of MyPlan instead of building a proposed website or application from scratch, most the color palette and themes used for our final design is mostly based on UW’s color theme - which is purple (#49317B in hex code). Yet, for most of the specific features - such as when users hover above our drop down menu design, or when they hover over a button - which we implemented ourselves, we went for a lighter shade of that color by increasing the white intensity. Furthermore, for our proposed personalization page, we searched for matching color palettes and combinations with the initial purple theme, and found that a light shade of brown matches the purple color, combining vibrant and soft colors. By doing so, the theme of our website will not only be less stagnant and monotone with purple colors, but also looks pleasing and comfortable to the eye. 
 
 ## High-Fidelity Wireframes
