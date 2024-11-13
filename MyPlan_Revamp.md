@@ -111,7 +111,7 @@ We have created a small question mark icon that allows users to hover over it in
 <img width="652" alt="Screenshot 2024-11-12 at 6 24 54 PM" src="https://github.com/user-attachments/assets/b568bcc9-441d-433e-90ae-d677528c8925">
 
 
-** Design Language / Style Guide **
+## **Design Language / Style Guide**
 
 ### Font 
 MyPlan is an University of Washington application, and we are revamping it to be easier for the user to interact with. Since we are using a pre-existing application we need to maintain design choices implemented in the application, and rather enhance the productivity of the product. Therefore, we maintained the font “Lato” throughout the new MyPlan design. 
