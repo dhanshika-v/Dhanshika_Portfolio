@@ -106,7 +106,8 @@ We have created a small question mark icon that allows users to hover over it in
 
 
 
-Moodboard
+## Moodboard
+
 <img width="652" alt="Screenshot 2024-11-12 at 6 24 54 PM" src="https://github.com/user-attachments/assets/b568bcc9-441d-433e-90ae-d677528c8925">
 
 
