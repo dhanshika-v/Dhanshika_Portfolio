@@ -74,6 +74,7 @@ It stands out as the best solution as MyPlan is the aforementioned main platform
 ### Product Features
 
 **Primary Features**
+
 **Feature 1:** Personalized Calendar that allows users to tailor the provided calendar according to their liking (hyperlink). Just like the academic calendar already provided in the original MyPlan, there is a list that contains the academic events and holidays. Another feature added which would be useful is the ‘Reminder’ section which allows users to be reminded of the upcoming events, as well the ‘Add to list’ button which would allow users to add their own to-do list.
 
 **Feature 2:** Asterisk symbol indicating a footnote (additional information) about a specific feature. In this case, the asterisk symbol is placed next to selected features in MyPlan’s homepage signifying that people frequently visit or use this specific feature. An example is shown in our design prototype as the asterisk beside build a schedule shows how it is frequently visited. By using this, we have made some sort of classification for MyPlan’s features that grabs their attention towards specific features that are mostly used.
