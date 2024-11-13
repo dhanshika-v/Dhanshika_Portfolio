@@ -1,5 +1,6 @@
 # MyPlan Revamp 📖
 ---
+<span style="background-color: yellow;">This text is highlighted in yellow.</span>
 
 [MyPlan Revamped Final.pdf](https://github.com/user-attachments/files/17725121/MyPlan.Revamped.Final.pdf)
 
