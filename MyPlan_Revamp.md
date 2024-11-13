@@ -3,6 +3,8 @@
 
 [MyPlan Revamped Final.pdf](https://github.com/user-attachments/files/17725121/MyPlan.Revamped.Final.pdf)
 
+Figma Link: https://www.figma.com/proto/9XkqHZL7sensi0YXg40xIn/Group6-MyPlan-Revamped?node-id=1-6&starting-point-node-id=1%3A6&t=ePCsD8RSwuULAB7J-1
+
 MyPlan Revamped
 INFO 200 Project Final Prototype 
 
