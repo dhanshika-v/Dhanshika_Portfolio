@@ -21,7 +21,7 @@ Steven Wilbert Heng: Hey, I am Steven Heng, currently a pre-major but intending 
 
 Our focus target audience are current UW students and the main general platform that we address here is UW’s online academic planning tool, MyPlan and MyUW. We are going to investigate potential limitations of the website’s user interface and make a better revised plan to increase the productivity and efficiency of the application. We are thinking of tackling certain sections such as the registration for classes better. Many students struggle with planning their academics. We will make changes that make the process smoother, efficient and practical. Without creating a proper solution it will make it harder for students to find the right classes and finish their degrees on time.
 
-### Solutions Considered
+## Solutions Considered
 ## Solution 1 - MyPlan Instructions Website
 
 <img width="468" alt="Picture1" src="https://github.com/user-attachments/assets/abe273d9-f567-4000-9d4e-332ccb6b102c">
@@ -72,7 +72,7 @@ It stands out as the best solution as MyPlan is the aforementioned main platform
 
 
 ## Description of Our Solution
-# Product Features
+### Product Features
 
 **Primary Features**
 **Feature 1:** Personalized Calendar that allows users to tailor the provided calendar according to their liking (hyperlink). Just like the academic calendar already provided in the original MyPlan, there is a list that contains the academic events and holidays. Another feature added which would be useful is the ‘Reminder’ section which allows users to be reminded of the upcoming events, as well the ‘Add to list’ button which would allow users to add their own to-do list.
