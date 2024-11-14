@@ -6,6 +6,11 @@ During my role as a Discovery Intern at Microsoft, I engaged in an enriching lea
 
 How can engineers maintain a first quality resolution with customers effectively managing customer expectations while navigating different tools to resolve the customer's issue quickly?
 
-- DfM is a case management solution that assists Support Engineers and Advocates the ability to assist Microsoft's commercial and consumer customer.
+DfM is a case management solution that assists Support Engineers and Advocates the ability to assist Microsoft's commercial and consumer customer.
 
-
+### Pros and Cons
+| Pros                                             | Cons                                     |
+|--------------------------------------------------|------------------------------------------|
+| Provides contact info for all necessary contacts | Separate application for communication   |
+| Able to send emails from portal                  | Fixed layout                             |
+| Widely used by most support engineers            | Only access to one’s email or phone number |
