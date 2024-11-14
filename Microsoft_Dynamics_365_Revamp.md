@@ -42,6 +42,55 @@ Embed a **Teams chat box** within the MD365 workspace to allow faster communicat
 - Signficantly reduce SLA first resolution time with customer and collaboration time between interal engineers
 - A customized dashboard for engineers to work on cases and collaboration
 
+## Microsoft Dynamics Support Enhancement EPIC 🚀
+
+### Summary
+We intend to revise the Microsoft Dynamics support engineer processes to promote more efficient collaboration and enhanced workflow.
+
+### Introduction
+Engineers will have an easier time communicating with each other and customers. This will reduce support times and improve both the customer and employee experience.
+
+## Product Requirements
+
+#### Support Engineer Features Access 🔧
+Support Engineers have lots of features at their fingertips through Microsoft Dynamics. Making these features more accessible is an important part of this Epic. Additionally, the rework will include a chatbox integration powered by the Teams Chat API.
+
+### Design & Technical Requirements 💻
+Support Engineers should have an easier time learning the Dynamics platform and be able to modify it to their taste.
+
+## Features
+
+### Feature 1: Embedded Teams Chat
+
+#### Business Hypothesis
+(Embedding) We need to implement an embedded Teams Chat in order to allow ease of access for setting up meeting between customer and escalated engineer by the first point of contact engineer.
+
+#### Business Value
+- Currently we plan on only engineers that have access to Dynamics for Microsoft only having access to this feature
+- We expect engineers only to utilize this feature when there could be requests an escalation request or a collaboration meeting with another engineer
+- The urgency of this feature is particularly high because this could possibly convert a 2-3 day process to a 1-2 day process
+
+### Feature 2: Previous Case Finder
+
+#### Business Hypothesis
+Finding previously solved case by engineer: By listing engineers previously completed cases, engineers given an escalation collaborate given an extra set of data. This will allow engineers who are looking to collaborate to have a more informed decision in terms to who they should reach out to.
+
+#### Business Value
+- Currently we plan on only engineers that have access to Dynamics for Microsoft having access to this feature
+- We expect engineers only to utilize this feature when there could be requests an escalation request or a collaboration needs with another engineer
+- The urgency of this feature is high because it has been flagged (in a job title) that acts to connect requester to who can provide support
+
+### Description
+Integrated Teams-esque chat: teams chat but brought into the contact portion of dynamics for Microsoft.
+
+### Acceptance Criteria
+- Given that I am a customer support engineer, I want a platform where I can quickly add engineers who I am seeking to collaborate with
+- The platform needs to have profiles and also communication via Teams chat
+- A link to an engineer's previously solved cases in their profile for Teams chat (only will show up in embedded feature version of Teams chat to clarify)
+
+---
+*Note: This document outlines the enhancement of Microsoft Dynamics support processes through improved collaboration features and workflow optimization.*
+
 ## Early Development:
 (No pictures for company confidently)
 - Dynamics 365 had a fixed layout
