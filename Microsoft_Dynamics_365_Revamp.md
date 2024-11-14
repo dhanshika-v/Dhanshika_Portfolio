@@ -5,3 +5,7 @@ During my role as a Discovery Intern at Microsoft, I engaged in an enriching lea
 ## Project Overview: fer
 
 How can engineers maintain a first quality resolution with customers effectively managing customer expectations while navigating different tools to resolve the customer's issue quickly?
+
+- DfM is a case management solution that assists Support Engineers and Advocates the ability to assist Microsoft's commercial and consumer customer.
+
+
