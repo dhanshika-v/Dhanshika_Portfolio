@@ -14,3 +14,17 @@ DfM is a case management solution that assists Support Engineers and Advocates t
 | Provides contact info for all necessary contacts | Separate application for communication   |
 | Able to send emails from portal                  | Fixed layout                             |
 | Widely used by most support engineers            | Only access to one’s email or phone number |
+
+
+### 👥 **Users**  
+Microsoft support engineers using **MD365**
+
+---
+
+### ❓ **Problem**  
+Communication between support engineers and customers is inefficient.
+
+---
+
+### 💡 **Solution**  
+Embed a **Teams chat box** within the MD365 workspace to allow faster communication and ensure problems are solved efficiently.
