@@ -1,5 +1,7 @@
 # Dynamics 365 Revamp 
 
+(No pictures for company confidently)
+
 During my role as a Discovery Intern at Microsoft, I engaged in an enriching learning journey focused on advancing my technical prowess in Python and mastering the collaborative tools within Azure DevOps. Working closely with the Customer Experience & Success team, I tackled challenges aimed at enhancing support infrastructure. Throughout the internship, I played a pivotal role in developing a solution to improve the efficiency of communication among Support Engineers using Dynamics 365. By integrating new features, our solution streamlined communication processes, fostering a more productive workflow. This experience deepened my technical skills while also honing my ability to solve customer-centric challenges within a dynamic team environment.
 
 ## Project Overview: 
@@ -93,7 +95,6 @@ Integrated Teams-esque chat: teams chat but brought into the contact portion of 
 ---
 
 ## Early Development:
-(No pictures for company confidently)
 - Dynamics 365 had a fixed layout
 - was not customizable for personal preferences 
 - only presented intromation pertaining to the problem, no details like contact info or additional commentary to solve the presented problem
