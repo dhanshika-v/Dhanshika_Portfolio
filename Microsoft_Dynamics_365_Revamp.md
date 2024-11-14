@@ -28,3 +28,39 @@ Communication between support engineers and customers is inefficient.
 
 ### 💡 **Solution**  
 Embed a **Teams chat box** within the MD365 workspace to allow faster communication and ensure problems are solved efficiently.
+
+
+## Key Considerations: 
+- Re-vamp of User Interface for Dynamics for Microsoft Tool
+- Integrated Chatbot
+
+## User Story: 
+*"As a business customer I want to know who has access to my case information so, I can maintain privacy and confidentially of my personal information."*
+
+## Key Takeways:
+- One-stop shop for all things communication
+- Signficantly reduce SLA first resolution time with customer and collaboration time between interal engineers
+- A customized dashboard for engineers to work on cases and collaboration
+
+## Early Development:
+(No pictures for company confidently)
+- Dynamics 365 had a fixed layout
+- was not customizable for personal preferences 
+- only presented intromation pertaining to the problem, no details like contact info or additional commentary to solve the presented problem
+- Support engineers had to manually contact the customers
+- There was a lack of ease in acess
+
+## Post Development 
+### 💬 **TEAMS Chat Features**
+
+- **All TEAMS chat features are implemented** with **additional enhancements** 🛠️
+  
+---
+
+### 🗂️ **Additional Information Access**
+- **View more** than just email & phone details 📧📱
+
+---
+
+### 🎨 **Customizable Interface**
+- **Personalize** the interface to match your preferences 🎛️
