@@ -21,3 +21,9 @@ The nonprofit wanted to better understand inventory usage patterns and customer 
 
 - **Impact & Results:**  
   My analysis led to data-driven recommendations that helped the organization optimize stock levels, reduce waste, and better match inventory to community needs. The final deliverable included a structured analytical report and live dashboards, both aligned with the nonprofit’s operational and strategic objectives.
+
+![1](https://github.com/user-attachments/assets/66f10458-9117-480e-8f76-1e765b35291f)
+
+
+
+![2](https://github.com/user-attachments/assets/fd1cc68b-5ac5-413b-b121-35a73fcf0107)
