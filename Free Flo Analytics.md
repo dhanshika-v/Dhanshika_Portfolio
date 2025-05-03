@@ -1,5 +1,7 @@
 ## Inventory Optimization & Customer Analysis for Free Flo Box 
 
+[Tableau Dashboard](https://public.tableau.com/shared/WTR64FMSR?:display_count=n&:origin=viz_share_link)
+
 This project focused on helping a nonprofit organization improve inventory management and customer engagement across two locations. My role combined data analysis, visualization, and stakeholder collaboration to deliver actionable insights that aligned with the organization's mission.
 
 ### Objective
@@ -22,8 +24,6 @@ The nonprofit wanted to better understand inventory usage patterns and customer 
 - **Impact & Results:**  
   My analysis led to data-driven recommendations that helped the organization optimize stock levels, reduce waste, and better match inventory to community needs. The final deliverable included a structured analytical report and live dashboards, both aligned with the nonprofit’s operational and strategic objectives.
 
-![1](https://github.com/user-attachments/assets/66f10458-9117-480e-8f76-1e765b35291f)
+<img src="https://github.com/user-attachments/assets/66f10458-9117-480e-8f76-1e765b35291f" alt="1" width="400"/>
 
-
-
-![2](https://github.com/user-attachments/assets/fd1cc68b-5ac5-413b-b121-35a73fcf0107)
+<img src="https://github.com/user-attachments/assets/fd1cc68b-5ac5-413b-b121-35a73fcf0107" alt="1" width="400"/>
